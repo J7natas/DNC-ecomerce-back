@@ -1,3 +1,2 @@
-node_modules
-package-lock.json
-packege.json
+node_modules/
+*.json
